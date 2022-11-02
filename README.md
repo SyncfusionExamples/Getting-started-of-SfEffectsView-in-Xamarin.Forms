@@ -1,6 +1,6 @@
 # Getting started of SfEffectsView in Xamarin.Forms
 
-This repository contains sample for how to get started with the [Syncfusion Xamarin.Forms EffectsView](https://help.syncfusion.com/xamarin/effects-view/getting-started) control. The Effects View is a container control that provides modern effects like ripple, selection, scaling, and rotation. Users can render these effects through touch interactions such as touch down, touch up, long press, and also by calling the APIs.
+This repository contains sample to get started with the [Syncfusion Xamarin.Forms EffectsView](https://help.syncfusion.com/xamarin/effects-view/getting-started) control. The Effects View is a container control that provides modern effects like ripple, selection, scaling, and rotation. Users can render these effects through touch interactions such as touch down, touch up, long press, and also by calling the APIs.
 
 ## Syncfusion controls:
 
